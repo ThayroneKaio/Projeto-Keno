@@ -6,15 +6,18 @@ Compilando através do prompt de comando (com suas respectivas partes) ou utiliz
 
 # Como executar o projeto?
   Siga os passos:
+
   ```
   +─ Projeto Keno           ---> Nome da posta do projeto
       ├─── main             ---> Pasta que contém os arquivos principais
             └─── main.cpp   ---> Arquivo para executar o jogo
   ```
+
 # Como executar o conjunto dos testes planejados por você?
   
   Meu conjunto de testes não é automotizado, logo tem que ser pego manualmente na pasta teste. segue o exemplo:
-  ```
+  
+```
    +─ Projeto Keno                                                   ---> Nome da posta do projeto
       ├─── testes                                                    ---> Pasta que contém os arquivos de testes.
             └─── Formatacao de arquivo de apostas diferentes.txt     ---> Arquivos de testes  
@@ -26,6 +29,7 @@ Compilando através do prompt de comando (com suas respectivas partes) ou utiliz
   Depois que copiar o arquivo volte para pasta Projeto Keno  ---> main ---> teste e colo os arquivos no teste.txt.
             
 # Limitações ou funcionalidades não implementadas no programa.
+
   ```
   - Não utilizei a classe;
   - Não Ordenei o vetores;
